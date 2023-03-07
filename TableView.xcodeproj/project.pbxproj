@@ -13,6 +13,7 @@
 		45BA041229A38F4C0025C556 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45BA041029A38F4C0025C556 /* Main.storyboard */; };
 		45BA041429A38F4D0025C556 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45BA041329A38F4D0025C556 /* Assets.xcassets */; };
 		45BA041729A38F4D0025C556 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45BA041529A38F4D0025C556 /* LaunchScreen.storyboard */; };
+		45BA041F29A39A4F0025C556 /* SlackTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45BA041E29A39A4F0025C556 /* SlackTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		45BA041329A38F4D0025C556 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45BA041629A38F4D0025C556 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45BA041829A38F4D0025C556 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45BA041E29A39A4F0025C556 /* SlackTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlackTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				45BA040A29A38F4C0025C556 /* AppDelegate.swift */,
 				45BA040C29A38F4C0025C556 /* SceneDelegate.swift */,
 				45BA040E29A38F4C0025C556 /* ViewController.swift */,
+				45BA041E29A39A4F0025C556 /* SlackTableViewCell.swift */,
 				45BA041029A38F4C0025C556 /* Main.storyboard */,
 				45BA041329A38F4D0025C556 /* Assets.xcassets */,
 				45BA041529A38F4D0025C556 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				45BA040F29A38F4C0025C556 /* ViewController.swift in Sources */,
 				45BA040B29A38F4C0025C556 /* AppDelegate.swift in Sources */,
 				45BA040D29A38F4C0025C556 /* SceneDelegate.swift in Sources */,
+				45BA041F29A39A4F0025C556 /* SlackTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
